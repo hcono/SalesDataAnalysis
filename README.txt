@@ -17,5 +17,9 @@ Should the company acquire new customers, and how much money should they spend o
 
 
 Read the Data and clean it using python.
+- clean DateTime dataType
 
 Explore the data using Power BI.
+- EDA through visualisation
+- feature Engineering if required
+

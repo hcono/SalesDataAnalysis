@@ -1,7 +1,7 @@
 Sales Data Analysis
 
 This is a read me file for an initial Business analytics portfolio project.
-The project will be aimed at analysing Sales data from a company. Anwering Questions such as:
+The project will be aimed at analysing Sales data from a company. Answering Questions such as:
 
 What is the total number of sales?
 What is the average sales per month? 
@@ -16,3 +16,6 @@ How should the company adjust its marketing strategies to VIP customers and less
 Should the company acquire new customers, and how much money should they spend on it?
 
 
+Read the Data and clean it using python.
+
+Explore the data using Power BI.
